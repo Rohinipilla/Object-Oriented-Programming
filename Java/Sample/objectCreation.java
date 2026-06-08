@@ -1,6 +1,6 @@
 package Java.Sample;
 
-class MyClass {
+class MyClass{
     public void myMethod() {
         System.out.println("This is a method in MyClass.");
     }
